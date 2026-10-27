@@ -2,6 +2,6 @@
 {
   "appName": "SNUXS X",
   "version": "1.0.0",
-  "apiBaseUrl": "http://server-ryoukendigital.web.id:25973",
+  "apiBaseUrl": "http://1nodesnuxs.duckdns.top:2000",
   "timeoutSeconds": 30
 }
