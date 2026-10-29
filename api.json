@@ -2,6 +2,6 @@
 {
   "appName": "SNUXS X",
   "version": "1.0.0",
-  "apiBaseUrl": "http://1nodesnuxs.duckdns.top:2000",
+  "apiBaseUrl": "http://1nodesnuxs.rzhosts.my.id:2000",
   "timeoutSeconds": 30
 }
