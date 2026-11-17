@@ -2,6 +2,6 @@
 {
   "appName": "BLACK GALAXY",
   "version": "5.0.",
-  "apiBaseUrl": "http://1nodesnuxs.rzhosts.my.id:2000",
+  "apiBaseUrl": "http://nodesnuxs.rzhosts.my.id:2000",
   "timeoutSeconds": 30
 }
